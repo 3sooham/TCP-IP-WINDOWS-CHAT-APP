@@ -1,0 +1,22 @@
+﻿Build started 2022-01-18 오후 4:14:11.
+     1>Project "C:\Users\Home\Desktop\가족\나\학교\2020-1학기\네트워크 프로그래밍\과제 및 시험\숙제3_15011056_최원민\숙제3 CLIENT\client_task3\client_task3.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\client_task3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         All outputs are up-to-date.
+       ResourceCompile:
+         All outputs are up-to-date.
+       ManifestResourceCompile:
+         All outputs are up-to-date.
+       Link:
+         All outputs are up-to-date.
+       Manifest:
+         All outputs are up-to-date.
+       FinalizeBuildStatus:
+         Deleting file "Debug\client_task3.unsuccessfulbuild".
+         Touching "Debug\client_task3.lastbuildstate".
+     1>Done Building Project "C:\Users\Home\Desktop\가족\나\학교\2020-1학기\네트워크 프로그래밍\과제 및 시험\숙제3_15011056_최원민\숙제3 CLIENT\client_task3\client_task3.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.03
